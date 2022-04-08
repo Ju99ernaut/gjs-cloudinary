@@ -2,7 +2,7 @@
 
 Cloudinary file uploader for `grapesjs`.
 
-[DEMO](##)
+[DEMO](https://earnest-froyo-e410cc.netlify.app/)
 
 ## Download
 
